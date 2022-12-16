@@ -144,3 +144,11 @@ ul{
     margin-left: -49%;
     margin-top: 38%;
 }
+
+.voltar{
+    position: absolute;
+    height: 5%;
+    margin-left: -48%;
+    margin-top: 1%;
+  }
+  
